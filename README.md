@@ -1,4 +1,4 @@
-Howdy! I am an third-year undergraduate statistics student at Texas A&M University who utilizes Python, R, and C++ to solve relevant, real-world problems. 
+Howdy! I am a senior undergraduate statistics student at Texas A&M University who utilizes Python, R, and C++ to solve relevant, real-world problems. 
 
 Some of my interests include: machine learning, classification algorithms, high-dimensional data analysis, and bayesian classification. 
 
