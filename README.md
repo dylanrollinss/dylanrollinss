@@ -1,4 +1,4 @@
-Howdy! I just graduated from Texas A&M University. I utilize Python, R, and C++ to solve relevant, real-world problems.
+Howdy! I recently graduated from Texas A&M University. I utilize Python, R, and C++ to solve relevant, real-world problems.
 
 Some of my interests include: machine learning, classification algorithms, high-dimensional data analysis, and bayesian classification. 
 
