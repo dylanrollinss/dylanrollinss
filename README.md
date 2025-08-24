@@ -4,7 +4,7 @@ Some of my interests include: machine learning, classification algorithms, high-
 
 In my free time, I enjoy taking digital and film photos—my work has been featured by the City of Chicago.
 
-I used em—dashes before they were cewl!
+I used em—dashes before they were cool.
 
 <!---
 dylanrollinss/dylanrollinss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
